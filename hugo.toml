@@ -1,4 +1,4 @@
-baseURL               = "https://nav.study996.cn/"
+baseURL               = "https://site.study996.cn/"
 languageCode          = "zh-CN"
 title                 = "半山灯的网址导航"
 theme                 = "hugo-theme-WebStack"
@@ -11,7 +11,7 @@ publishDir            = "public"				# 站点静态文件保存目录
 [params]
     author        = "半山灯"
     description   = "半山灯的网址导航 BY IT 爱好者"
-    upload        = "https://github.com/it985/nav/issues"      # 左侧导航栏的"网站提交"
+    upload        = "https://github.com/it985/site/issues"      # 左侧导航栏的"网站提交"
     # about         = "./about"	          # 左侧导航栏的"关于导航"页面 (./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
     enablePreLoad = true					# 网站完全打开前预加载动画

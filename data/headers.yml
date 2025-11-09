@@ -1,16 +1,16 @@
 - item: 首页
-  icon: fa fa-home
+  icon: 
   link: "./"
 
 - item: 作者
-  icon: fa fa-book
+  icon: 
   link: https://www.study996.cn/
 
-# - item: 关于
-#   icon: fa fa-cog
+# - item: 
+#   icon: 
 #   link: ""
 #   list:
-#     - name: 教程
-#       url: https://github.com/shenweiyan/Knowledge-Garden/discussions/10
-#     - name: 源码
-#       url: https://github.com/shenweiyan/WebStack-Hugo
+#     - name: 
+#       url: 
+#     - name: 
+#       url: 
